@@ -47,3 +47,7 @@ This notification system is designed to be **scalable, fault-tolerant, and exten
    * Displays notifications in real-time using UI components (e.g., toasts, banners, alerts).
 
 ---
+<img width="1348" height="818" alt="image" src="https://github.com/user-attachments/assets/c57ca508-0086-4c67-a37d-09ec5e26a23a" />
+
+
+
