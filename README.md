@@ -2,7 +2,7 @@
 
 ## Overview
 
-This notification system is designed to bdecouples event producers from notification delivery using **RabbitMQ** as the message broker and delivers updates to clients in real-time via **SignalR**.
+This notification system is designed to decouples event producers from notification delivery using **RabbitMQ** as the message broker and delivers updates to clients in real-time via **SignalR**.
 
 ## High-Level Flow
 
